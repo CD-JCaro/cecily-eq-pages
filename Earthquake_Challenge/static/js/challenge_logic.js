@@ -1,5 +1,5 @@
 // Add console.log to check to see if our code is working.
-var API_KEY = "pk.eyJ1IjoiY2Fyb2o1IiwiYSI6ImNrYnR0bnEyYzBkY3UzNG1pa2lzMHhqYTQifQ.XMpSdajdBk0OmTri-j_MFw";
+var API_KEY = "pk.eyJ1IjoiY2Fyb2o1IiwiYSI6ImNrbTVub2JseTBmdzAydWxwNDhuNjdob3oifQ.VgNU-USklH_zL7z2-q9CzQ";
 console.log("working");
 
 // We create the tile layer that will be the background of our map.
