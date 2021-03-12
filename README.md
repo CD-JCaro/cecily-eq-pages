@@ -1,1 +1,1 @@
-# cecily-eq-pages
+# Mapping_Earthquakes
